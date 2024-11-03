@@ -7,5 +7,5 @@ Este es un proyecto de [Expo](https://expo.dev) creado con [`create-expo-app`](h
 ### 1. Clona el repositorio de manera local
 
 ```bash
-git clone [<URL-del-repositorio>]https://github.com/Jesus1511/Innovaja-sistems)
+git clone https://github.com/Jesus1511/Innovaja-sistems
 
